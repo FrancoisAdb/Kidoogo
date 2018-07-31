@@ -60,7 +60,7 @@ img {z-index: 1}
 .fas {color : #13C65B}
 .card-pic{display: block;margin-top: 16px;text-align: center;padding-left:32px;}
 
-.subs_left-half {  background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px;padding-left : 0px}
+.subs_left-half {  background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px;padding-left : 16px}
 .subs_right-half {  background-image: url("image/phuc-long-579304-unsplash.png");flex: 1; background-size: cover}
 #subs{padding-top: 64px}
 #subs h1{color: #12A16E;;padding-top:40px;font-weight: bolder;font-size: 32px}
