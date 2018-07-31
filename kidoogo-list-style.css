@@ -1,0 +1,59 @@
+
+body{background: #F7F7F7;color: #523E6B;  background-repeat: no-repeat;	font-size: 16px;	font-family: 'Roboto', sans-serif;;	text-align: center;	margin: 0;    text-shadow: none;  padding: 0;}
+
+h1{  font-family: 'Roboto', sans-serif;  color: black; ;  font-size: 40px;}
+
+h2 {  font-family: 'Roboto', sans-serif;  color: black;  font-weight: lighter;  font-size: 24px;    text-shadow: none;}
+
+
+a {color: black;  text-shadow: none}
+a:hover {  text-decoration: none;  color: #8093F1;}
+
+img {z-index: 1}
+
+
+#Navbar{z-index: 2;background: #F7F7F7; padding: 16px; color: black; font-weight: lighter; text-align: right}
+.Navbarlogo {top: 2px;  position: fixed;z-index: 3; margin-left : 48px; vertical-align: top; float:left;}
+
+.Nav{opacity: 0.9; z-index: 2; background: #F7F7F7; ;position: fixed; transition: all .3s ease-out ;  color: white; padding: 24px; padding-right: 48px ;top: 0;   left: 0; width: 100%;}
+.list-inline{margin-right: 32px; word-spacing: 48px}
+
+.Nav:hover { opacity: 1; background: #2DE1C2}
+.Nav:focus { outline: none}
+
+.btn-primary {font-size:24px;margin-left: 64px;margin-bottom: 64px;background: linear-gradient(to right, #13C65B, #42EAF5);border: 0; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold}
+.btn-primary:hover {background: linear-gradient(to right, #8093F1, #42EAF5);transition: all .3s ease-out }
+
+#intro{background: white;padding-top: 64px;text-align: left;}
+#intro h1{padding-left : 64px;padding-bottom: 96px;text-align: center;padding-top :128px;}
+#intro h2{padding-left : 64px;;padding-bottom: 32px}
+
+#list{text-align: left;padding: 16px;}
+.card-logo{margin-top:32px;}
+
+.ul{list-style-position: inside;text-align: left;list-style-type: none;}
+#list h1 {text-align: center}
+#list h2 {text-align: left;;}
+#list h3 {text-align: center;}
+
+
+.container2 {  display: flex;padding:64px;}
+.subs_left-half {  background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px}
+.subs_right-half {  background-image: url("image/phuc-long-579304-unsplash.png");flex: 1; background-size: cover}
+#subs{background: white;}
+#subs h1{color: #12A16E;margin-left: 24px;padding-top:40px;font-weight: bolder;font-size: 32px}
+#subs h2{color: black;margin-left: 24px;font-size: 24px;padding-bottom: 16px}
+#subs h3{color: black;margin-left: 24px;font-size: 16px;font-weight: bolder;}
+#subs h4{padding-top : 64px;color: black;margin-left: 24px;font-size: 16px}
+
+
+.btn-ter {margin-left: 24px;background: linear-gradient(to right, #13C65B, #42EAF5);border: 0; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold;font-size: 24px;color : white;}
+.btn-ter:hover {background: linear-gradient(to right, #8093F1, #42EAF5);transition: all .3s ease-out }
+
+
+.Mail{  font-size: 24px; color: black;}
+#footer{ padding: 24px;  background: rgb(20, 20, 20);  color: grey;  font-weight: lighter;  opacity: 0.9;  text-align: left}
+.social{	font-size: 24px;	color: #1ED794;}
+.footnote{ color: grey;  font-weight: lighter;opacity: 0.9;}
+
+
