@@ -21,7 +21,7 @@ img {z-index: 1}
 .Nav:focus { outline: none}
 
 
-#mc_embed_signup{background:transparent; clear:left; font:24px Roboto;margin-left: 124px}
+#mc_embed_signup{background:transparent; clear:left; font:24px Roboto;margin-left: 0px}
 #mc_embed_signup form {display: block;}
 .email{background: white;border: 0,1; border-radius: 1}
 
