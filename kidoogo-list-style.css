@@ -38,17 +38,18 @@ img {z-index: 1}
 
 
 .container2 {  display: flex;padding:64px;}
-.subs_left-half {  background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px}
+
+.subs_left-half {  background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px;padding-left : 16px}
 .subs_right-half {  background-image: url("image/phuc-long-579304-unsplash.png");flex: 1; background-size: cover}
-#subs{background: white;}
-#subs h1{color: #12A16E;margin-left: 24px;padding-top:40px;font-weight: bolder;font-size: 32px}
-#subs h2{color: black;margin-left: 24px;font-size: 24px;padding-bottom: 16px}
-#subs h3{color: black;margin-left: 24px;font-size: 16px;font-weight: bolder;}
-#subs h4{padding-top : 64px;color: black;margin-left: 24px;font-size: 16px}
+#subs{padding-top: 64px;background-color: white}
+#subs h1{color: #12A16E;;padding-top:24px;font-weight: bolder;font-size: 32px}
+#subs h2{color: black;;font-size: 20px;padding-bottom: 8px}
+#subs h3{color: black;;font-size: 16px;font-weight: bolder;}
+#subs h4{padding-top : 32px;color: black;;font-size: 16px}
 
-
-.btn-ter {margin-left: 24px;background: linear-gradient(to right, #13C65B, #42EAF5);border: 0; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold;font-size: 24px;color : white;}
-.btn-ter:hover {background: linear-gradient(to right, #8093F1, #42EAF5);transition: all .3s ease-out }
+.btn-ter {;margin-top: 8px;background: linear-gradient(to right, #13C65B, #42EAF5);border: 0; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold;font-size: 24px;color : white;}
+.btn-ter:hover {background: linear-gradient(to right, #8093F1, #42EAF5);transition: all .3s ease-out ;color:white;}
+.email-subs{background: white;border: 0,1; border-radius: 1;margin-left: 0px;font-size:24px}
 
 
 .Mail{  font-size: 24px; color: black;}
