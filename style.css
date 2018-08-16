@@ -33,12 +33,13 @@ img {z-index: 1}
 #landing h2{font-size: 24px;font-weight: lighter;padding-top: 8px;padding-bottom: 8px}
 
 
-#solution {background: white;padding-left: 64px;padding-right: 64px}
+#solution {background: white;margin-right: 0px;width: 100%}
 #solution h1 {padding-bottom: 24px;font-size: 24px;}
 #solution h2 {font-size: 32px;font-weight: bolder;}
 #solution h3 {font-size: 32px;font-weight: bolder;color : black;}
 #solution h4 {font-size: 16px;font-weight: lighter;}
-.card{;padding: 24px; margin-bottom: 40px;text-align: center}
+.card{;padding: 32px; margin-bottom: 40px;text-align: center;width:100%;}
+
 
 .container {  display: flex;}
 .listaccess_left-half {  background-color: #1ED794;flex: 1;;text-align: left;padding: 16px}
