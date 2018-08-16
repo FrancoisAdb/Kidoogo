@@ -12,7 +12,7 @@ img {z-index: 1}
 
 
 #Navbar{z-index: 2;background: #F7F7F7; padding: 16px; color: black; font-weight: lighter; text-align: right}
-.Navbarlogo {margin-top: 4px;  position: fixed;z-index: 3; margin-left : 48px; vertical-align: top; float:left;}
+.Navbarlogo {margin-top: -8px;  position: fixed;z-index: 3; margin-left : 40px; vertical-align: top; float:left;}
 
 .Nav{opacity: 0.9; z-index: 2; background: #F7F7F7; ;position: fixed; transition: all .3s ease-out ;  color: white; padding: 24px; padding-right: 48px ;top: 0;   left: 0; width: 100%;}
 .list-inline{margin-right: 32px; word-spacing: 48px}
