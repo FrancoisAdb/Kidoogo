@@ -28,7 +28,7 @@ img {z-index: 1}
 .btn-primary {margin-bottom:128px;margin-top: 8px;background: linear-gradient(to right, #13C65B, #42EAF5);border: 0; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold;font-size: 24px}
 .btn-primary:hover {background: linear-gradient(to right, #8093F1, #42EAF5);transition: all .3s ease-out }
 
-#landing{text-align: left;padding: 64px;  background-image: url("image/Background-desktop.png");background-repeat: no-repeat;background-size: cover;}
+#landing{text-align: left;padding: 64px;  background-image: url("image/Background-desktop_2.png");background-repeat: no-repeat;background-size: cover}
 #landing h1{font-size: 48px;font-weight: bolder;margin-top: 80px}
 #landing h2{font-size: 24px;font-weight: lighter;padding-top: 8px;padding-bottom: 8px}
 
