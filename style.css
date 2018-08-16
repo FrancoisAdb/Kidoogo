@@ -42,17 +42,38 @@ img {z-index: 1}
 
 
 .container {  display: flex;}
-.listaccess_left-half {  background-color: #1ED794;flex: 1;;text-align: left;padding: 16px}
-.listaccess_right-half {  background-image: url("image/patrick-tomasso-71909-unsplash.png");flex: 1;background-size: cover }
+
 .btn-secondary {margin-bottom:32px;margin-top:24px;margin-left: 24px;background: transparent;border: 10;border-color: white; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold;font-size: 24px;color:white;}
 .btn-secondary:hover {background: linear-gradient(to right, #8093F1, #42EAF5);transition: all .3s ease-out;color : white;}
-#listaccess{padding-bottom: 64px}
-#listaccess h1{color: white;margin-left: 24px;padding-top:40px;font-weight: bolder;font-size: 32px}
-#listaccess h2{color: white;margin-left: 24px;font-size: 16px}
 
 
 .fas {color : #13C65B}
 .card-pic{display: block;margin-top: 16px;text-align: center;padding-left:16px;}
+
+
+
+#presentation {background: linear-gradient(#2A3A60, #082260);padding :64px;}
+#presentation h1 {font-size: 24px;color : white;}
+#presentation h2 {padding-top: 128px;font-size: 24px;color : white;}
+#presentation h3 {padding-bottom: 32px;padding-right: 500px;font-size: 16px;color : white;font-weight: lighter;}
+#presentation h4 {padding-top: 360px;padding-bottom: 16px;font-size: 24px;color : white;}
+#presentation h5 {padding-bottom: 200px;font-size: 16px;color : white;font-weight: lighter;}
+.presentation_1_logo {float :right;z-index: 3; margin-left : 48px; padding-top: 128px;padding-left: 128px}
+.presentation_1_text {text-align: left;padding-top: 64px}
+.presentation_2_logo {float :left;z-index: 3; margin-left : 32px; padding-top: 200px;padding-right: 128px;}
+.presentation_2_text {text-align: left}
+.presentation_3_logo {float :right;z-index: 3; margin-left : 48px; padding-top: 200px;padding-left: 128px}
+.presentation_3_text {text-align: left;padding-top: 200px;padding-bottom: 140px}
+
+
+.subs_left-half {  background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px;padding-left : 16px}
+.subs_right-half {  background-image: url("image/phuc-long-579304-unsplash.png");flex: 1; background-size: cover}
+#subs{padding-top: 64px;padding-bottom: 64px}
+#subs h1{color: #12A16E;;padding-top:24px;font-weight: bolder;font-size: 32px}
+#subs h2{color: black;;font-size: 20px;padding-bottom: 8px}
+#subs h3{color: black;;font-size: 16px;font-weight: bolder;}
+#subs h4{padding-top : 32px;color: black;;font-size: 16px}
+
 
 
 
@@ -65,15 +86,6 @@ img {z-index: 1}
 
 .equipe_left-half { ; background-color: #F7F7F7;flex: 1;;text-align: left;padding-left : 8px;padding-right: 8px;width: 50%;}
 .equipe_right-half {; background-color: #EAEAEA;flex: 1;;padding-left : 16px;width: 50%;}
-
-
-.subs_left-half {  background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px;padding-left : 16px}
-.subs_right-half {  background-image: url("image/phuc-long-579304-unsplash.png");flex: 1; background-size: cover}
-#subs{padding-top: 64px}
-#subs h1{color: #12A16E;;padding-top:24px;font-weight: bolder;font-size: 32px}
-#subs h2{color: black;;font-size: 20px;padding-bottom: 8px}
-#subs h3{color: black;;font-size: 16px;font-weight: bolder;}
-#subs h4{padding-top : 32px;color: black;;font-size: 16px}
 
 
 .btn-ter {;margin-top: 8px;background: linear-gradient(to right, #13C65B, #42EAF5);border: 0; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold;font-size: 24px;color : white;}
