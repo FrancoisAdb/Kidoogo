@@ -51,7 +51,7 @@ img {z-index: 1}
 .card-pic{display: block;margin-top: 16px;text-align: center;padding-left:16px;}
 
 
-#presentation {background: #082260;padding :64px;}
+#presentation {background: linear-gradient(#2A3A60, #0E2764);padding :64px;}
 #presentation h1 {font-size: 24px;color : white;}
 #presentation h2 {padding-top: 128px;font-size: 24px;color : white;}
 #presentation h3 {padding-bottom: 32px;padding-right: 500px;font-size: 16px;color : white;font-weight: lighter;}
