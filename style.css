@@ -51,7 +51,6 @@ img {z-index: 1}
 .card-pic{display: block;margin-top: 16px;text-align: center;padding-left:16px;}
 
 
-
 #presentation {background: #082260;padding :64px;}
 #presentation h1 {font-size: 24px;color : white;}
 #presentation h2 {padding-top: 128px;font-size: 24px;color : white;}
@@ -77,7 +76,7 @@ img {z-index: 1}
 
 
 
-#equipe {padding-left: 8px;;text-align: left;background: linear-gradient(to right, #F7F7F7, #EAEAEA);padding-top: 64px}
+#equipe {padding-left: 8px;;text-align: left;background: linear-gradient(to right, #F7F7F7, #EAEAEA);}
 #equipe h1 {font-size: 32px;font-weight: bolder;padding-top: 16px;margin-top: 0px;margin-bottom: 0px}
 #equipe h2 {;font-size: 24px;margin-bottom: 0px}
 #equipe h3 {font-size: 16px;font-weight: lighter;color:black;margin-bottom: 4px}
