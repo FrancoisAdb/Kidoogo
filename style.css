@@ -1,11 +1,11 @@
-body{background: white;  color: #523E6B;	font-size: 16px;	font-family: 'Roboto', sans-serif;	text-align: center;	margin: 0;    text-shadow: none;  padding: 0;}
+body{background: white;  color: #523E6B; font-size: 16px;font-family: 'Roboto', sans-serif;	text-align: center;	margin: 0;    text-shadow: none;  padding: 0;}
  
-h1{  font-family: 'Roboto', sans-serif;  color: black; padding-top: 48px;  font-size: 40px;}
+h1{  font-family: 'Roboto', sans-serif;color: black;padding-top: 48px;font-size: 40px}
  
-h2 {  font-family: 'Roboto', sans-serif;  color: black;  font-weight: lighter;  font-size: 24px;    text-shadow: none;}
+h2 {  font-family: 'Roboto', sans-serif;color: black;font-weight: lighter;font-size: 24px;text-shadow: none;}
  
-a {color: black;  text-shadow: none}
-a:hover {  text-decoration: none;  color: #8093F1;}
+a {color: black;text-shadow: none}
+a:hover {text-decoration: none;  color: #8093F1}
  
 img {z-index: 1}
  
@@ -16,11 +16,10 @@ img {z-index: 1}
 .Nav{opacity: 0.9; z-index: 2; background: #F7F7F7; ;position: fixed; transition: all .3s ease-out ;  color: white; padding: 24px; padding-right: 48px ;top: 0;   left: 0; width: 100%;}
 .list-inline{margin-right: 32px; word-spacing: 48px}
  
-.Nav:hover { opacity: 1; background: #EAEAEA}
-.Nav:focus { outline: none}
+.Nav:hover {opacity: 1; background: #EAEAEA}
+.Nav:focus {outline: none}
  
- 
-#mc_embed_signup{background:transparent; clear:none; font-size:24px Roboto;width: 160px;margin-left: auto;margin-right: auto}
+#mc_embed_signup{background:transparent; clear:none; font-size:24px 'Roboto';width: 160px;margin-left: auto;margin-right: auto}
 #mc_embed_signup form {display: block;width: 160px;}
 .email{background: white;border: 0,1; border-radius: 1;font-size:24px;width: 160px;}
  
@@ -31,23 +30,19 @@ img {z-index: 1}
 #landing h1{font-size: 40px;font-weight: bolder;margin-top: 32px}
 #landing h2{font-size: 24px;font-weight: lighter;padding-top: 8px;padding-bottom: 8px}
  
- 
-#solution {background: white;margin-right: 0px;width: 100%}
-#solution h1 {padding-bottom: 32px;font-size: 24px;}
-#solution h2 {padding-bottom: 64px;font-size: 32px;font-weight: bolder;}
-#solution h3 {font-size: 32px;font-weight: bolder;color : black;}
+#solution {background: white;margin-right: 0px;width: 100%;padding: 64px}
+#solution h1 {padding-top: 16px;font-size: 32px;font-weight: bolder;}
+#solution h2 {padding-bottom: 32px;padding-top: 8px;font-size: 24px;}
+#solution h3 {font-size: 24px;font-weight: bolder;color : black;}
 #solution h4 {font-size: 16px;font-weight: lighter;}
-.card{;padding: 32px; margin-bottom: 64px;text-align: center;width:100%;}
- 
- 
-.container {  display: flex;}
-
+.card{;padding: 32px; ;text-align: center;width:100%;}
+.container {display: flex;}
 .fas {color : #13C65B}
 .card-pic{display: block;margin-top: 16px;text-align: center;padding-left:16px;}
  
  
 #presentation {background: linear-gradient(#2A3A60, #0E2764);padding :64px;}
-#presentation h1 {font-size: 24px;color : white;}
+#presentation h1 {font-size: 24px;color : white;font-weight: lighter;}
 #presentation h2 {padding-top: 128px;font-size: 24px;color : white;}
 #presentation h3 {padding-bottom: 32px;padding-right: 500px;font-size: 16px;color : white;font-weight: lighter;}
 #presentation h4 {padding-top: 360px;padding-bottom: 16px;font-size: 24px;color : white;}
@@ -59,43 +54,39 @@ img {z-index: 1}
 .presentation_3_logo {float :right;z-index: 3; margin-left : 48px; padding-top: 200px;padding-left: 128px}
 .presentation_3_text {text-align: left;padding-top: 200px;padding-bottom: 140px}
  
- 
-.subs_left-half {  background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px;padding-left : 16px}
-.subs_right-half {  background-image: url("image/phuc-long-579304-unsplash.png");flex: 1; background-size: cover}
+.subs_left-half {background-color: #F7F7F7;flex: 1;;text-align: left;padding: 16px;padding-left : 16px}
+.subs_right-half {background-image: url("image/phuc-long-579304-unsplash.png");flex: 1; background-size: cover}
 #subs{padding-top: 64px;padding-bottom: 64px}
 #subs h1{color: #12A16E;;padding-top:24px;font-weight: bolder;font-size: 32px}
-#subs h2{color: black;;font-size: 20px;padding-bottom: 8px}
-#subs h3{color: black;;font-size: 16px;font-weight: bolder;}
+#subs h2{color: black;font-size: 20px;padding-bottom: 8px}
+#subs h3{color: black;font-size: 16px;font-weight: bolder;}
 #subs h4{padding-top : 32px;color: black;;font-size: 16px}
- 
- 
- 
- 
+
 #equipe {padding-left: 8px;;text-align: left;background: linear-gradient(to right, #F7F7F7, #EAEAEA);}
-#equipe h1 {font-size: 32px;font-weight: bolder;padding-top: 16px;margin-top: 0px;margin-bottom: 0px}
-#equipe h2 {;font-size: 24px;margin-bottom: 0px}
-#equipe h3 {font-size: 16px;font-weight: lighter;color:black;margin-bottom: 4px}
-#equipe h4 {font-size: 16px;padding-left: 32px;padding-top: 2px;margin-bottom: 0px;color :black;}
+#equipe h1 {font-size: 24px;font-weight: lighter;margin-top: 0px;margin-bottom: 0px;}
+#equipe h2 {;font-size: 24px;margin-bottom: 8px}
+#equipe h3 {font-size: 16px;font-weight: lighter;color:black;margin-bottom: 16px;margin-top :16px;}
+#equipe h4 {font-size: 16px;padding-left: 32px;padding-top: 0px;margin-bottom: 8px;color :black;margin-top :8px}
 #equipe h5 {font-size: 16px;text-align: center}
  
-.equipe_left-half { ; background-color: #F7F7F7;flex: 1;;text-align: left;padding-left : 8px;padding-right: 8px;width: 50%;}
-.equipe_right-half {; background-color: #EAEAEA;flex: 1;;padding-left : 16px;width: 50%;}
+.equipe_left-half {background-color: #F7F7F7;flex: 1;text-align: left;padding-left : 8px;padding-right: 8px;width: 50%;}
+.equipe_right-half {background-color: #EAEAEA;flex: 1;padding-left : 16px;width: 50%;}
+.mantra{font-style: normal;font-weight: bold;}
  
- 
-.btn-ter {;margin-top: 8px;background: linear-gradient(to right, #13C65B, #42EAF5);border: 0; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold;font-size: 24px;color : white;}
+.btn-ter {margin-top: 8px;background: linear-gradient(to right, #13C65B, #42EAF5);border: 0; border-radius: 1;box-shadow:  1px 2px 1px #888888;font-style: bold;font-size: 24px;color : white;}
 .btn-ter:hover {background: linear-gradient(to right, #8093F1, #42EAF5);transition: all .3s ease-out ;color:white;}
 .email-subs{background: white;border: 0,1; border-radius: 1;margin-left: 0px;font-size:24px}
-#mc_embed_signup_2{background:transparent; clear:none; font-size:24px Roboto;width: 160px;margin-left: 0px}
+#mc_embed_signup_2{background:transparent; clear:none; font-size:24px ;width: 160px;margin-left: 0px}
  
 #contact{padding-left:64px;}
 #contact h1 {padding-bottom:48px;font-size:24px;}
-#contact h2 {;text-align: left}
+#contact h2 {text-align: left}
  
 #soutiens{padding-left:64px;background: #F7F7F7;;}
 #soutiens h1 {padding-bottom:24px;font-size:24px;margin-bottom: 0px}
 .soutiens-logos{text-align: center;padding-bottom: 16px}
  
-.Mail{  font-size: 24px; color: black;}
-#footer{; padding: 24px;;  background: rgb(20, 20, 20);  color: grey;  font-weight: lighter;  opacity: 0.9;  text-align: left}
-.social{	font-size: 24px;	color: #1ED794;}
-.footnote{ color: grey;  font-weight: lighter;opacity: 0.9;}
+.Mail{font-size: 24px; color: black;}
+#footer{padding: 24px; background: rgb(20, 20, 20);  color: grey;  font-weight: lighter;  opacity: 0.9;  text-align: left}
+.social{font-size: 24px; color: #1ED794;}
+.footnote{color: grey;font-weight: lighter;opacity: 0.9;}
